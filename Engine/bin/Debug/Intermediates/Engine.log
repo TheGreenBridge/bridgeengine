@@ -1,0 +1,6 @@
+﻿  Game.cpp
+c:\users\christian\documents\visual studio 2015\projects\engine\dependencies\glew\include\gl\glew.h(85): fatal error C1189: #error:  gl.h included before glew.h
+  window.cpp
+c:\users\christian\documents\visual studio 2015\projects\engine\dependencies\glew\include\gl\glew.h(85): fatal error C1189: #error:  gl.h included before glew.h
+  Renderer.cpp
+  Code wird generiert...
